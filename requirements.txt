@@ -1,0 +1,7 @@
+discord.py
+discord.ext.commands
+json
+requests
+os
+asyncio
+python-dotenv
