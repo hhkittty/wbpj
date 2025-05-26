@@ -1,6 +1,3 @@
 discord.py
-json
 requests
-os
-asyncio
 python-dotenv
