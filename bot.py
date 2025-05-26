@@ -147,4 +147,4 @@ async def 도움말(ctx):
 
 load_dotenv()
 token = os.getenv("DISCORD_BOT_TOKEN")
-bot.run('token')
+bot.run(token)
